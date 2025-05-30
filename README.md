@@ -15,6 +15,7 @@ diri  akan otomatis aktif untuk melindungi dokumen yang dibawanya.
 Namun, tujuan utama Popcok tetap sama : selamat tiba di markas 
 tanpa kehilangan surat penting tersebut.  Ayo segera bantu POPCOK 
 mengantarkan surat dan kamu juga bisa tau isi surat yang dibawa POPCOK.
+Penasaran kan,,,sama .
 </p>
 
 ## Panduan 
