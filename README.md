@@ -5,7 +5,7 @@
 
 # <h1 align="center">POPCOK</h1>
 
-## Deskripsi
+##  Deskripsi
 
 <p align="justify">
   Popcok sendiri ialah robot kurir rahasia yang ditugaskan 
@@ -18,7 +18,20 @@ mengantarkan surat dan kamu juga bisa tau isi surat yang dibawa POPCOK.
 Penasaran kan,,,sama .
 </p>
 
-## Panduan 
+## Bahasa Yang Digunakan
+
+<ol>
+    <li> Python</li>
+</ol>
+
+##  Tools yang Digunakan
+- Python
+- Pygame
+- VSCode
+- Segala macam AI
+
+
+## Panduan Bermain
 
 1. Ini adalah tampilan dari menu game. Untuk memulai klik tombol mulai
    dan terdapat tombol credits untuk menampilkan cerita awal si POPCOK.
@@ -40,11 +53,6 @@ selamat dan kamu juga bisa tau isi suratnya
 ![Good luck!](POPCOK/README/saat_finnish.png)
 
 
-## Bahasa Yang Digunakan
-
-<ol>
-    <li> Python</li>
-</ol>
 
 
 ## Cara menjalankan App
