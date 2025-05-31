@@ -82,7 +82,11 @@ py -m pip install -U pygame --user
 ```bash
 python3 -m pip install -U pygame --user
 ```
-<p>4. Masuk ke folder POPCOK dengan gunakan perintah pada cmd " cd \POPCOK "</p>
+<p>4. Masuk ke folder POPCOK dengan gunakan perintah pada cmd  </p>
+```bash
+cd /POPCOK
+
+```
 
 <p>5. Setelah berada di dalam folder POPCOK jalankan </p>
 <p>Untuk Windows</p>
