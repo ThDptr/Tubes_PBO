@@ -107,7 +107,7 @@ python3 main.py
 | --------------------------| --------- | -------------------------- | ---------------------------------------------------------------------------- |
 | Tengku Hafid Diraputra    | 123140043 | Programmer,Project Leader  | [@ThDptr](https://github.com/ThDptr)                                         |
 | Andika Rahman Pratama     | 123140090 | Programmer                 | [@11-090-AndikaRahmanPratama](https://github.com/11-090-AndikaRahmanPratama) |
-| Bayu Brigas Novaldi       | 123140072 | Programmer                 | [@Bayubrigas](https://github.com/Bayubrigas)                                 |
+| Bayu Brigas Novaldi       | 123140072 | Designer                   | [@Bayubrigas](https://github.com/Bayubrigas)                                 |
 | Ilyas Ramadhan            | 123140016 | Designer                   | [@03ilyas](https://github.com/03ilyas)                                       |
 | Andre Prasetya Daely      | 123140131 | Designer                   | [@andree050505](http://github.com/andree050505)                              |
 
